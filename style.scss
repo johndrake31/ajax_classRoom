@@ -1,0 +1,8 @@
+$redText: #ff0000;
+
+.my-class{
+    color: $redText;
+    &:hover{
+        color: black;
+    }
+}

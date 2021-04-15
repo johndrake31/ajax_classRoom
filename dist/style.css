@@ -1,0 +1,6 @@
+.my-class {
+  color: #ff0000;
+}
+.my-class:hover {
+  color: black;
+}
